@@ -13,5 +13,12 @@
 *function vs method: funcao é um conjunto de ações a ser executadas, se a função for de uma classe ou metodo ela é um metodo.
 
 
+
+Perguntas da aula Programação 1:
+1 - porque é usado "===" nessa linha do codigo inves de so um "="?
+ return this.lado1 === this.lado2;
+
+2 - Qual seria a função do termo "super" dentro da herança de uma classe?
+
 sites para ajudar em fazer sites:
 https://icon-sets.iconify.design/ - icones para a pagina
