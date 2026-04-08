@@ -2,12 +2,6 @@
 
 ## HTML
 - é uma linguagem de marcação usada na criação de sites.
-### Tags principais:
-- (<html> <head> <body>)
-### Conteúdo:
-- (<h1> <p> <img> <a> <div>)
-### Organização
-- (<header> <main> <footer>)
 
 ## CSS 
 - é usado para estilizar o html e deixar seu site mais bonito.
