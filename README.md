@@ -16,9 +16,12 @@
 - Da vida ao codigo, deixando o codigo com eventos e efeitos.
 
 ## Java vs JS vs TS
-### Java: linguagem forte e tipada, usada principalmente no back-end.
-### JavaScript (JS): linguagem da web, roda no navegador e também no servidor (Node.js), usada para dar efeitos e adicionar eventos para o site.
-### TypeScript (TS): uma versão do JS com tipagem, ajuda a evitar erros e organizar melhor projetos grandes(versao melhorada do JS).
+### Java: 
+linguagem forte e tipada, usada principalmente no back-end.
+### JavaScript (JS): 
+linguagem da web, roda no navegador e também no servidor (Node.js), usada para dar efeitos e adicionar eventos para o site.
+### TypeScript (TS): 
+uma versão do JS com tipagem, ajuda a evitar erros e organizar melhor projetos grandes(versao melhorada do JS).
 
 ## POO (Programação Orientada a Objetos)
 ### classe: é um modelo que define como algo vai ser.
